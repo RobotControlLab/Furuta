@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rcluser/Projects/ros/dc_motor_ws/devel/.private/acrobot_teensy/setup.sh

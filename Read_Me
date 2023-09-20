@@ -1,0 +1,3 @@
+The teensy project is located in the path /src/acrobot_teensy/teensy
+
+The futula pendulum launch file is located in src/acrobot_teensy/launch

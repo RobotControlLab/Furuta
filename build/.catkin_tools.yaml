@@ -1,0 +1,6 @@
+devel_space: /home/rcluser/Projects/ros/dc_motor_ws/devel
+install: false
+install_space: /home/rcluser/Projects/ros/dc_motor_ws/install
+profile: default
+source_space: /home/rcluser/Projects/ros/dc_motor_ws/src
+workspace: /home/rcluser/Projects/ros/dc_motor_ws

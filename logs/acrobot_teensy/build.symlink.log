@@ -1,0 +1,3 @@
+Symlinking /home/rcluser/Projects/ros/dc_motor_ws/devel/lib/pkgconfig/acrobot_teensy.pc
+Symlinking /home/rcluser/Projects/ros/dc_motor_ws/devel/share/acrobot_teensy/cmake/acrobot_teensyConfig.cmake
+Symlinking /home/rcluser/Projects/ros/dc_motor_ws/devel/share/acrobot_teensy/cmake/acrobot_teensyConfig-version.cmake

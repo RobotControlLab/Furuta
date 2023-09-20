@@ -1,0 +1,8 @@
+prefix=/home/rcluser/Projects/ros/dc_motor_ws/devel/.private/acrobot_teensy
+
+Name: acrobot_teensy
+Description: Description of acrobot_teensy
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rcluser/Projects/ros/dc_motor_ws/devel/.private/catkin_tools_prebuild/setup.sh
